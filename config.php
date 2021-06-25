@@ -6,7 +6,7 @@ ini_set( 'display_errors', '1' );
 
 define( 'SITE_URL', 'http://pablo.ifcd0211.tk/Ejercicios-php/mi-proyecto-V5/' );
 
-define( 'SITE_TIMEZONE', 'Europe/Madrid' );
+define( 'SITE_TIMEZONE', 'Europe/Brussels' );
 define( 'SITE_LANG',['es', 'spa', 'es_ES'] );
 
 define( 'DB_HOST', 'localhost'  );
